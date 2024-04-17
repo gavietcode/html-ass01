@@ -1,0 +1,163 @@
+body {
+  margin: 0px;
+}
+
+.cv-document {
+  box-sizing: border-box;
+  border: none;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  vertical-align: baseline;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: arial, sans-serif, tahoma;
+  font-size: 10pt;
+}
+
+.cv-page {
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  text-decoration: none;
+  width: 900px;
+  min-height: 900px;
+  margin: 0 auto;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+  background-color: #fff;
+  position: relative;
+  padding: 40px;
+}
+.section-name {
+  color: navy;
+  font-size: 35px;
+}
+
+.img-avatar {
+  width: 140px;
+  height: 150px;
+  display: block;
+  position: absolute;
+  top: 100px;
+  right: 50px;
+}
+.child-content {
+  font-size: 20px;
+  color: black;
+}
+
+/* .section-target {
+  color: black;
+  font-size: 25px;
+  margin-bottom: 5px;
+} */
+
+/* .hr-target {
+  border: 1px solid black;
+} */
+
+.p-target {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+/* .section-target,
+.section-education {
+  color: black;
+  font-size: 25px;
+  margin-bottom: 0;
+} */
+
+.hr-target,
+.hr-education,
+.hr-experience,
+.hr-activity,
+.hr-skill,
+.hr-certi,
+.hr-hobby,
+.hr-project,
+.hr-contact {
+  border: 1px solid black;
+}
+
+.p-edate,
+.p-edate1 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.p-edate2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+.section-target,
+.section-education,
+.section-experience,
+.section-activity,
+.section-skill,
+.section-certi,
+.section-hobby,
+.section-project,
+.section-contact {
+  color: black;
+  font-size: 25px;
+  margin-bottom: 0;
+  margin-top: 40px;
+}
+.p-exdate,
+.p-exdate1,
+.p-exdate2,
+.p-exdate3 {
+  font-size: 20px;
+  margin-bottom: 5;
+  margin-top: 0;
+}
+
+.p-activity,
+.p-activity1 {
+  font-size: 20px;
+  margin-bottom: 5;
+  margin-top: 0;
+}
+
+.p-skill,
+.p-skill1,
+.p-skill2,
+.p-skill3 {
+  font-size: 20px;
+  margin-bottom: 5;
+  margin-top: 0;
+}
+
+.p-certi,
+.p-certi1 {
+  font-size: 20px;
+  margin-bottom: 5;
+  margin-top: 0;
+}
+
+.p-hobby {
+  font-size: 20px;
+  margin-bottom: 5;
+  margin-top: 0;
+}
+
+.ul-hobby,
+.ul-project {
+  font-size: 20px;
+}
+
+.p-project {
+  font-size: 20px;
+}
+
+.p-contact {
+  font-size: 20px;
+}
